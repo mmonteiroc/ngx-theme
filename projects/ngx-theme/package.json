@@ -2,6 +2,10 @@
   "name": "@mmonteiroc/ngx-theme",
   "version": "0.0.1",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmonteiroc/ngx-theme.git"
+  },
   "peerDependencies": {
     "@angular/common": "^15.1.0",
     "@angular/core": "^15.1.0"
